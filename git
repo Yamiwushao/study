@@ -1,0 +1,195 @@
+[33mcommit e696f6e3e829da1b6b83dfd1e7ad9739ef71987c[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 16:36:18 2018 +0800
+
+    删除test2.txt
+
+[33mcommit cda5b757f0271a75b105cf6b09ec7d29bc7df79f[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 15:58:41 2018 +0800
+
+    测试-a
+
+[33mcommit 8b8fc6cbc7a89abc5519bd6b7add599d3bb1f36a[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 15:54:32 2018 +0800
+
+    测试提交
+
+[33mcommit 197005e48124c8b865ab9c86b7d10dc61708ed5e[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 14:05:03 2018 +0800
+
+    master1
+
+[33mcommit 0f841de0ab8ac12e35bc4f197fbc697264c605a3[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 14:00:57 2018 +0800
+
+    清空master分支
+
+[33mcommit 015308e4242e5649c88d11bfdbd11423820d59bc[m
+Merge: ae86a15 d555e7d
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 11:36:07 2018 +0800
+
+    master分支去除冲突
+
+[33mcommit d555e7d1bededc542ee9f6a423be68cea75a0b87[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 11:33:49 2018 +0800
+
+    jyp分支修改
+
+[33mcommit ae86a15c2facb999d8f11e49d1e0125cfd22e2fa[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 11:33:11 2018 +0800
+
+    master分支修改
+
+[33mcommit aacb195adda50bfa645772716e4f208cbd5b41ed[m
+Merge: 81d2003 9753806
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Thu Mar 15 11:13:59 2018 +0800
+
+    去冲突
+
+[33mcommit 97538068b0e79610b8f457c96545412d02b17ffb[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Wed Mar 14 17:59:43 2018 +0800
+
+    分支测试3
+
+[33mcommit 81d2003072b6096651c4f9d1665fc9709e526d59[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Wed Mar 14 17:41:38 2018 +0800
+
+    分支测试
+
+[33mcommit 3ca0f7957941aedb3ca85cd29425a3b8fe7a8a15[m
+Author: yamiwushao <yami_jyp@hotmail.com>
+Date:   Wed Mar 14 17:36:02 2018 +0800
+
+    www
+
+[33mcommit ba6df182455f0772ce48eb51e60dc1dd360541a4[m
+Merge: a04ea7c dca8f8d
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 17:34:02 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+    
+    # Conflicts:
+    #       test.txt
+
+[33mcommit a04ea7c4f12a01a6123ecce1216ebdb6ab3294b9[m
+Merge: 8262546 31e9d7b
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:58:24 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+
+[33mcommit dca8f8d95d62f8cc1d27481fd720193bb2b17ed4[m
+Author: rory <zhouhaotian8023@outlook.com>
+Date:   Wed Mar 14 17:25:19 2018 +0800
+
+    修改
+
+[33mcommit 3b0eb07377873bf6f896e3b21b72742648b22395[m
+Author: rory <zhouhaotian8023@outlook.com>
+Date:   Wed Mar 14 17:24:09 2018 +0800
+
+    修改
+
+[33mcommit 2ef4a95a8cd973c83f0a220cda2849c9c8fcb88c[m
+Author: rory chou <zhouhaotian8023@outlook.com>
+Date:   Wed Mar 14 17:15:13 2018 +0800
+
+    Signed-off-by: rory chou <zhouhaotian8023@outlook.com>
+
+[33mcommit c445e59450bc15ac2c7931ac22b94dd4b2eb5bfd[m
+Author: rory chou <365538079@qq.com>
+Date:   Wed Mar 14 17:10:59 2018 +0800
+
+    修改
+
+[33mcommit ba1d975309232931b1a28554f0cdbde2ceaf78f2[m
+Author: rory chou <365538079@qq.com>
+Date:   Wed Mar 14 17:04:34 2018 +0800
+
+    修改
+
+[33mcommit 30cc4fc247a3cb5dcddcea57fb86ed29c2642761[m
+Merge: 8262546 31e9d7b
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:58:24 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+
+[33mcommit 8262546a9ed1fe19718547e47f0c9d77216695be[m
+Merge: ee36724 394c3d9
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:56:26 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+
+[33mcommit 31e9d7b5655aa5380bfad404a3b264b2aa09c1a6[m
+Merge: ee36724 394c3d9
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:56:26 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+
+[33mcommit ee3672457403a98c87f1c0551707625dc2c46d87[m
+Merge: b13e5d8 a96583d
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:04:31 2018 +0800
+
+    eee
+
+[33mcommit 394c3d9ae7aa7007c2460381ecb0014ce94806b2[m
+Merge: b13e5d8 a96583d
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:04:31 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+
+[33mcommit b13e5d8e74ba2bd999d47fc94a5ded8ff9447b70[m
+Author: Yamiwushao <yami_jyp@hotmail.com>
+Date:   Wed Mar 14 16:02:24 2018 +0800
+
+    测试
+
+[33mcommit a96583db6e3085183c782c375e249fdcb5648b58[m
+Author: Yamiwushao <yami_jyp@hotmail.com>
+Date:   Wed Mar 14 16:02:24 2018 +0800
+
+    Create README.md
+
+[33mcommit 583343608189e43b8fd0343c94fd4ee017348bc3[m
+Merge: 52f21e8 a397313
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 16:00:28 2018 +0800
+
+    Merge branch 'master' of https://github.com/Yamiwushao/study
+    
+    # Conflicts:
+    #       test.txt
+
+[33mcommit 52f21e871e97787d300ed1d9d9450eb5d212d4ef[m
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 15:32:38 2018 +0800
+
+    添加6
+
+[33mcommit a397313616c199ed995cfdeb0f855759c93eb30e[m
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 15:32:38 2018 +0800
+
+    添加
+
+[33mcommit 5e2c349d070990d47ac0a4f416900f8d24617db8[m
+Author: jsjiangyaping <jsjiangyaping@lvmama.com>
+Date:   Wed Mar 14 11:46:26 2018 +0800
+
+    first commit
